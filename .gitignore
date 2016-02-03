@@ -1,0 +1,33 @@
+# Xcode
+.DS_Store
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+#*.xcworkspace
+!default.xcworkspace
+*.xcuserdatad
+profile
+*.xccheckout
+*.moved-aside
+DerivedData
+.idea/
+WorkspaceSettings.xcsettings
+# Pods - for those of you who use CocoaPods
+# Pods
+
+# Calabash/Cucumber
+.irb-history
+screenshot_*.png
+
+#TestFlight
+Artifacts
+Provisioning Profiles
+test_executro.sh
+test_results
+Carthage
